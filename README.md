@@ -5,4 +5,4 @@ Changing the prompt over time shows how the model tracks objects and handles occ
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tao0v0/SAM2_demo/blob/main/SAM2_Cells1-3_Demo.ipynb)
 
-!!注意： 在colab中把运行改为 GPU而不是CPU
+!!注意： 在colab中把运行改为 GPU而不是CPU，否则运行速度会大大减慢
